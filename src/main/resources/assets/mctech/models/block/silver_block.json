@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "mctech:blocks/silver_block"
+   }
+}
