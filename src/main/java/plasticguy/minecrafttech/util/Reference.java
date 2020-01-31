@@ -1,6 +1,7 @@
 package plasticguy.minecrafttech.util;
 
-public class Reference {
+public class Reference
+{
 	
 	public static final String MOD_ID = "mctech";
 	public static final String NAME = "Minecraft Tech";

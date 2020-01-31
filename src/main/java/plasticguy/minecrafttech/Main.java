@@ -11,7 +11,8 @@ import plasticguy.minecrafttech.proxy.CommonProxy;
 import plasticguy.minecrafttech.util.Reference;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
-public class Main {
+public class Main
+{
 	
 	@Instance
 	public static Main instance;
