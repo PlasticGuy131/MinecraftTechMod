@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "mctech",
+  "name": "Minecraft Tech Mod",
+  "description": "A simple tech mod focusing on multiblock systems.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["PlasticGuy"],
+  "credits": "Just PlasticGuy so far",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
