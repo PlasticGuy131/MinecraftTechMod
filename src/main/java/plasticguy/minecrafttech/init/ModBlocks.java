@@ -6,7 +6,9 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import plasticguy.minecrafttech.blocks.BlockBase;
 import plasticguy.minecrafttech.blocks.CopperBlock;
+import plasticguy.minecrafttech.blocks.CopperOreBlock;
 import plasticguy.minecrafttech.blocks.SilverBlock;
+import plasticguy.minecrafttech.blocks.SilverOreBlock;
 
 public class ModBlocks
 {
@@ -14,4 +16,6 @@ public class ModBlocks
 	
 	public static final Block COPPER_BLOCK = new CopperBlock("copper_block", Material.IRON);
 	public static final Block SILVER_BLOCK = new SilverBlock("silver_block", Material.IRON);
+	public static final Block COPPER_ORE_BLOCK = new CopperOreBlock("copper_ore_block", Material.IRON);
+	public static final Block SILVER_ORE_BLOCK = new SilverOreBlock("silver_ore_block", Material.IRON);
 }
