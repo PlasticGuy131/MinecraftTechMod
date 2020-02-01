@@ -2,6 +2,8 @@
 //ITEMS
 item.copper_ingot.name=Copper Ingot
 item.silver_ingot.name=Silver Ingot
+item.graphite.name=Graphite
+
 
 //BLOCKS
 tile.copper_block.name=Block of Copper

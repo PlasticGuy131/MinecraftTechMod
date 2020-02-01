@@ -11,4 +11,5 @@ public class ModItems
 	
 	public static final Item COPPER_INGOT = new ItemBase("copper_ingot");
 	public static final Item SILVER_INGOT = new ItemBase("silver_ingot");
+	public static final Item GRAPHITE = new ItemBase("graphite");
 }
