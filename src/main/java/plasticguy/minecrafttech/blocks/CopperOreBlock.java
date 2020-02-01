@@ -18,5 +18,4 @@ public class CopperOreBlock extends BlockBase
 		//setLightOpacity(); - Block is opaque.
 		//setBlockUnbreakable(); - Block is not unbreakable.
 	}
-
 }

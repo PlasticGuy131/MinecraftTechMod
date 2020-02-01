@@ -16,6 +16,6 @@ public class ModBlocks
 	
 	public static final Block COPPER_BLOCK = new CopperBlock("copper_block", Material.IRON);
 	public static final Block SILVER_BLOCK = new SilverBlock("silver_block", Material.IRON);
-	public static final Block COPPER_ORE_BLOCK = new CopperOreBlock("copper_ore_block", Material.IRON);
-	public static final Block SILVER_ORE_BLOCK = new SilverOreBlock("silver_ore_block", Material.IRON);
+	public static final Block COPPER_ORE_BLOCK = new CopperOreBlock("copper_ore_block", Material.ROCK);
+	public static final Block SILVER_ORE_BLOCK = new SilverOreBlock("silver_ore_block", Material.ROCK);
 }
