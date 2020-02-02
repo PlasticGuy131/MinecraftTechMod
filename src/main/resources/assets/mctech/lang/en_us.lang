@@ -10,3 +10,4 @@ tile.copper_block.name=Block of Copper
 tile.silver_block.name=Block of Silver
 tile.copper_ore_block.name=Copper Ore
 tile.silver_ore_block.name=Silver Ore
+tile.basic_machine_frame_block.name=Basic Machine Frame
