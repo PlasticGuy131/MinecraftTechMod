@@ -1,6 +1,6 @@
 {
-    "parent":"block/block",
 	"credit": "Made with Blockbench",
+	"parent":"block/block",
 	"textures": {
 		"0": "mctech:blocks/basic_machine_frame_block",
 		"1": "mctech:blocks/basic_machine_frame_block1",
